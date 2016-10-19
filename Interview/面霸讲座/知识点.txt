@@ -1,0 +1,19 @@
+数据结构
+	array, arraylist,linkedlist, doubly linked list, 
+	binary tree, stack, queue, hashtable, hashmap, PQ(heap). Trie
+	optional: segment tree线段树
+
+算法：
+	sort(merge, quick, heap)
+	BFS, DFS
+	binary search
+	tree traversal, pre/in/post
+	DP
+
+CS基础concept:
+	Bit manipulation
+	singleton design pattern	3要素
+	factory design pattern
+	memory(heap vs stack)
+	big O
+	multithread(thread vs process), mutex, 死锁
